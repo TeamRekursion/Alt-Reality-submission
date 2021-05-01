@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.png" height = 300 width = 300>
+    <img src="assets/logo.png" height = 300 width = 300>
     <h2 align="center">Alt Reality</h2>
     <h5 align = "center"> Aren't you bored of the traditional ways of interacting with people online 🥱, clicking on a zoom/meet link just to attend and be bored to death? Us too. Do you miss the night meetings we had in college? Us too. Do you hate the chaos in a meeting full of people? Us too. Hence we present to you the idea of ""Alt Reality"", an interactive platform that aims to simulates the real world quite closely!
 
